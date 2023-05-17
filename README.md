@@ -1,27 +1,21 @@
-# Purple Angular
+# Inspiration
+The prompt brought some interesting possibilities to the table, so we started looking at some issues that regular people have with the medical system. Immediately, what came to mind was the amount of medication some patients are prescribed after a simple visit. It’s disorienting, and both of us have related to the confusion associated with having to use multiple medications a day. At PrescribeMate, we want to consolidate the process of prescribing and consuming medication, as well as simplify vital information needed for patients.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+# What it does
+PrescribeMate is a well-rounded application. We allow patients or doctors to manually input all of the information regarding their drugs: type of medicine, dosage, and the intervals needed between the doses. We use this information to remind the patients when the time comes to take their medicine, but we also cross-reference the drugs between each other. When we do this, we can find any interactions between the drugs and warn the patient to check with their doctor before consuming anything, minimizing the risk of unintentional misuse. We also display the adverse effects of any medications you take, so that patients can identify the cause of ailments that appear when on meds. PrescribeMate can also refill prescriptions and remind you to pick medicine up from your pharmacy, greatly reducing the time and effort needed when prescribed medication. In risky situations, when you might need medical help or are trying out something new, it is good to have an idea of meds you are taking, so our platform is also great to use as a shortlist for all of a patient’s medication.
 
-## Development server
+# How we built it
+PrescribeMate was built upon the Angular Framework as the frontend and Node.js as the backend, with Firebase serving as the database system and the method of hosting the application. Bootstrap and TailwindCss were both used to style the application, allowing for smooth, easy-to-use user experience. The application utilizes the openFDA API in order to get realtime medicinal data. This way, users have access to the latest information on the drugs in circulation.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Challenges we ran into
+The largest challenge was querying the data from the openFDA API. Though retrieving the raw data itself was not a hindrance, creating and combining several queries to allow for cross-referencing the medicines with one another was an incredibly tedious process. Even finding an API that would allow us to get data of such bulk for free was difficult, as most APIs either cost money, or they would not provide the data that we needed. The decision to use bootstrap and Tailwindcss made styling a slight challenge. We wanted to use features from both libraries, though they conflicted at times.
 
-## Code scaffolding
+# Accomplishments that we're proud of
+We're proud of how we've created a platform that would help not only patients but also doctors and pharmacists, better connecting all three aspects of healthcare into one harmonious system. While there are systems in place that do connect doctors with pharmacies, no system engages the patient as well. The user experience is also something we are proud, as we have designed a smooth, easy-to-use application that is visually appealing to users.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# What We learned
+Throughout this hackathon experience, we were able to learn about cool tools and technologies to help support this application with all of its features. We learned how to effectively pitch an idea by incorporating personal experiences and researching the best method of addressing an issue at hand. On the technical side, we learned how to combine multiple styling libraries into one seamless design, and we learned how to incorporate official data from the FDA and present it in a manner that is easy to read and understand.
 
-## Build
+# What's next for PrescribeMate
+We think that PrescribeMate has a great path forward and a lot of room to grow as a utility for both doctors and patients. At some point, we see this platform being used as a direct line of communication between you and your doctor. This will simplify the treatment process tenfold, and make the recovery process easier on you and your doctor. We would also like to better cater to mobile users by creating a dedicated application on both iOS and Android, which would provide an enhanced mobile experience in comparison to a progressive web app.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
