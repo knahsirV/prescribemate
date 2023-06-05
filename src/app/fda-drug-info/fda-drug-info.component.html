@@ -1,0 +1,37 @@
+<div class="page-header">
+    <h3 class="page-title">
+      <span class="page-title-icon bg-gradient-primary text-white mr-2">
+        <i class="mdi mdi-pill"></i>                 
+      </span>
+     <b>FDA Prescription Info</b> 
+    </h3>
+</div>
+<div class="row">
+    <div class="col-12 my-4 stretch-card">
+        <h2 class="mx-auto">
+            <b>Click To Learn About Products Related To Your Prescriptions</b> 
+        </h2>
+    </div>
+    
+</div>
+<div class="row">
+    <div class="col-md-3 mb-4"  *ngFor="let med of oMeds">
+        <div *ngFor="let info of med.products; let i = index">
+            <div *ngIf="i<1">
+                <div class="card" style="height:15rem; background-color: rgb(228, 217, 236);">
+                    <div class="card-body text-center">
+                        <h4>
+                            <b>
+                                {{info.brand_name}}
+                            </b>
+                        </h4>
+                        <h5>
+                            {{med.sponsor_name}}
+                        </h5>
+                        <button type="button" class="btn btn-primary btn-fw">Learn More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

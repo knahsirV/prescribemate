@@ -1,0 +1,57 @@
+<div class="container-scroller">
+  <app-navbar *ngIf="showNavbar"></app-navbar>
+  <app-landing *ngIf="!isDash"></app-landing>
+  <div *ngIf="isDash" class="container-fluid page-body-wrapper">
+    <app-sidebar *ngIf="showSidebar"></app-sidebar>
+    <div class="main-panel" [ngClass]="{ 'main-panel-only' : !showSidebar }">
+      <div class="content-wrapper">
+        <app-spinner *ngIf="isLoading"></app-spinner>
+        <div contentAnimate *ngIf="!isLoading" class="h-100">
+          <router-outlet></router-outlet>
+        </div>
+      </div>
+      <app-footer *ngIf="showFooter && isDash"></app-footer>
+      <!-- partial -->
+    </div>
+    <!-- main-panel ends -->
+  </div>
+  <!-- page-body-wrapper ends -->
+  <footer class="block py-4 bg-gray-800" *ngIf="!isDash">
+    <div class="container mx-auto px-4">
+      <div class="flex flex-wrap items-center md:justify-between justify-center">
+        <div class="w-full md:w-4/12 px-4">
+          <div class="text-sm text-white font-semibold py-1">
+            2020
+            <a
+              href=""
+              class="text-white hover:text-gray-800 text-sm font-semibold py-1"
+            >
+            PrescribeMate
+            </a>
+          </div>
+        </div>
+        <div class="w-full md:w-8/12 px-4">
+          <ul class="flex flex-wrap list-none md:justify-end  justify-center">
+            <li>
+              <a
+                href=""
+                class="text-white hover:text-gray-900 text-sm font-semibold block py-1 px-3"
+              >
+                PrescribeMate
+              </a>
+            </li>
+            <li>
+              <a
+                href=""
+                class="text-white hover:text-gray-900 text-sm font-semibold block py-1 px-3"
+              >
+                About Us
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+</div>

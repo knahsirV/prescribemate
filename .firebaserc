@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "prescribemate": {
+      "hosting": {
+        "demo1": [
+          "prescribemate"
+        ]
+      }
+    }
+  }
+}

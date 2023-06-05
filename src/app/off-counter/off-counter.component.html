@@ -1,0 +1,55 @@
+<div class="page-header">
+    <h3 class="page-title">
+      <span class="page-title-icon bg-gradient-primary text-white mr-2">
+        <i class="mdi mdi-pill"></i>                 
+      </span>
+     <b>Add Over-Counter Drugs</b> 
+    </h3>
+</div>
+<div class="row">
+    <div class="col-12 stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">My Meds</h4>
+                <app-todo></app-todo>
+              </div>
+            </div>
+      </div>
+</div>
+<div class="row">
+    <div class="col-12 my-4 stretch-card">
+        <h2 class="mx-auto">
+            <b>Over-Counter Drugs Catalog</b> 
+        </h2>
+    </div>
+    
+</div>
+<div class="row">
+    <div class="col-md-3 mb-4"  *ngFor="let med of oMeds">
+        <div *ngFor="let info of med.products; let i = index">
+            <div *ngIf="i<1">
+                <div class="card" style="height:15rem; background-color: rgb(228, 217, 236);">
+                    <div class="card-body text-center">
+                        <h4>
+                            <b>
+                                {{info.brand_name}}
+                            </b>
+                        </h4>
+                        <h5>
+                            {{med.sponsor_name}}
+                        </h5>
+                        <ul>
+                            <div *ngFor="let ingred of info.active_ingedients">
+                            <li>
+                                {{ingred.name}}
+                            </li>
+                            </div>
+                        </ul>
+                        <button type="button" class="btn btn-primary btn-fw">Add to My List</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

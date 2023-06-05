@@ -1,0 +1,2212 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2020-09-21",
+    "results": {
+      "skip": 0,
+      "limit": 10,
+      "total": 557
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20181012",
+          "submission_class_code": "UNKNOWN",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20181115",
+              "id": "56473",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/207891Orig1s000ltr.pdf"
+            }
+          ],
+          "submission_number": "1"
+        }
+      ],
+      "application_number": "ANDA207891",
+      "sponsor_name": "SUN PHARM",
+      "openfda": {
+        "product_ndc": [
+          "62756-377",
+          "57483-840",
+          "30142-992",
+          "51660-029"
+        ],
+        "package_ndc": [
+          "30142-992-28",
+          "57483-840-42",
+          "51660-029-27",
+          "51660-029-14",
+          "30142-992-14",
+          "57483-840-01",
+          "62756-377-11",
+          "62756-377-96",
+          "62756-377-21",
+          "51660-029-44",
+          "62756-377-79",
+          "62756-377-70",
+          "62756-377-12"
+        ],
+        "generic_name": [
+          "OMEPRAZOLE"
+        ],
+        "spl_set_id": [
+          "35a95bec-51b9-465b-aa93-ad26afb87be8",
+          "51c3ef34-b7c1-419e-a784-ae82540c7a22",
+          "7535a309-1a67-4f50-911b-7cf570322931",
+          "f55cedc7-e0bc-4d30-af52-bfa881f6adde"
+        ],
+        "brand_name": [
+          "OMEPRAZOLE"
+        ],
+        "manufacturer_name": [
+          "THE KROGER COMPANY",
+          "Sun Pharmaceutical Industries, Inc.",
+          "INNOVUS PHARMACEUTICALS, INC.",
+          "OHM LABORATORIES INC."
+        ],
+        "unii": [
+          "KG60484QX9"
+        ],
+        "rxcui": [
+          "402014"
+        ],
+        "spl_id": [
+          "7535a309-1a67-4f50-911b-7cf570322931",
+          "cd664883-a4cc-4ff4-b388-3e525b0e64b9",
+          "2da84b4a-2ac2-46ae-be2b-e297a55f668c",
+          "63b1e0b1-cdee-4fd5-a5f5-10a832daf5bc"
+        ],
+        "substance_name": [
+          "OMEPRAZOLE"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "application_number": [
+          "ANDA207891"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "ORAL",
+          "reference_standard": "No",
+          "brand_name": "OMEPRAZOLE",
+          "active_ingredients": [
+            {
+              "strength": "20MG",
+              "name": "OMEPRAZOLE"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "TABLET, DELAYED RELEASE"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20190207",
+          "submission_class_code": "UNKNOWN",
+          "submission_status": "AP",
+          "submission_number": "1"
+        }
+      ],
+      "application_number": "ANDA207868",
+      "sponsor_name": "PLD ACQUISITIONS",
+      "openfda": {
+        "product_ndc": [
+          "11822-3622",
+          "0363-2640",
+          "70000-0559",
+          "70000-0560",
+          "0363-0262",
+          "63548-0264",
+          "63548-0262",
+          "11822-3315",
+          "68016-087",
+          "68016-086"
+        ],
+        "package_ndc": [
+          "63548-0264-0",
+          "63548-0264-1",
+          "68016-086-81",
+          "0363-0262-81",
+          "11822-3315-1",
+          "63548-0264-7",
+          "0363-2640-35",
+          "0363-0262-35",
+          "63548-0262-0",
+          "63548-0262-1",
+          "63548-0262-7",
+          "70000-0559-1",
+          "0363-2640-81",
+          "11822-3622-5",
+          "68016-087-81",
+          "70000-0560-1"
+        ],
+        "generic_name": [
+          "NICOTINE POLACRILEX"
+        ],
+        "spl_set_id": [
+          "380ce6c2-3e29-4bdf-a600-f6990925a307",
+          "71db232e-b169-47d0-b269-5e14fa75f3a2",
+          "71ee5a44-b451-4ecd-9fe7-8124b4dae1c5",
+          "60551e9a-c82f-45ce-8ef4-03c00c6c870a",
+          "56bf9ed2-8410-4da6-9292-53fab10947ac",
+          "876b80a3-3ea8-4821-9716-c18e24502822",
+          "6edf8c50-d3b9-469a-ad57-37c05e098862",
+          "8bafad28-d671-4ff3-8288-6fd19ae43293",
+          "dfdd100d-8808-40f4-a68e-1e0388be424d"
+        ],
+        "brand_name": [
+          "NICOTINE MINI",
+          "MINI NICOTINE"
+        ],
+        "manufacturer_name": [
+          "PLD Acquisitions LLC DBA Avma Pharma Solutions",
+          "Walgreens",
+          "Chain Drug Consortium, LLC",
+          "Rite Aid Corporation",
+          "Cardinal Health (Leader) 70000"
+        ],
+        "unii": [
+          "6M3C89ZY6R"
+        ],
+        "rxcui": [
+          "359818",
+          "359817"
+        ],
+        "spl_id": [
+          "0399a3fb-e964-4ddd-ba0b-185b09c9ae0e",
+          "0b1d7d05-17a0-4043-953b-9d28fc7ffae8",
+          "275b39ba-805e-4add-a168-a3806f696f6b",
+          "46890874-9ab1-4719-8ed3-f310758ddc09",
+          "c2ab1c30-d30f-4c0a-b2fd-2589003fb864",
+          "618fde0e-8eac-41f5-965a-930e2044a35f",
+          "2f8e7910-2e9d-45aa-925e-a8dc27ac6e1d",
+          "e0ff6e7a-5af5-450f-a991-fa46eef496c8",
+          "6ed64bb9-b4f7-4eab-91e4-dfd122368c3c"
+        ],
+        "substance_name": [
+          "NICOTINE"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "application_number": [
+          "ANDA207868"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "ORAL",
+          "reference_standard": "No",
+          "brand_name": "NICOTINE POLACRILEX",
+          "active_ingredients": [
+            {
+              "strength": "EQ 2MG BASE",
+              "name": "NICOTINE POLACRILEX"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "TROCHE/LOZENGE"
+        },
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "ORAL",
+          "reference_standard": "No",
+          "brand_name": "NICOTINE POLACRILEX",
+          "active_ingredients": [
+            {
+              "strength": "EQ 4MG BASE",
+              "name": "NICOTINE POLACRILEX"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "002",
+          "dosage_form": "TROCHE/LOZENGE"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_class_code_description": "Type 4 - New Combination",
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19890919",
+          "submission_class_code": "TYPE 4",
+          "submission_status": "AP",
+          "submission_number": "1"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20010514",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "submission_number": "18"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20000118",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "17"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19990628",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "16"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19940613",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "9"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19970131",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "14"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19940311",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "submission_number": "8"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19960201",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "13"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20060417",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20060420",
+              "id": "19183",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/019771s026ltr.pdf"
+            }
+          ],
+          "submission_number": "26"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "submission_status_date": "19910904",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "submission_number": "7"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19940615",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "6"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "submission_status_date": "19920528",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "submission_number": "4"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20031017",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20031022",
+              "id": "1591",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19771slr022ltr.pdf"
+            }
+          ],
+          "submission_number": "22"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19901017",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "3"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19940803",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "2"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "19940421",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "1"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20010523",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20030610",
+              "id": "33933",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/19771S20lbl.pdf"
+            }
+          ],
+          "submission_number": "20"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "0"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20010802",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "21"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20060223",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20060301",
+              "id": "1592",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/019771s028ltr.pdf"
+            }
+          ],
+          "submission_number": "28"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20080620",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20080623",
+              "id": "19184",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/019771s031ltr.pdf"
+            }
+          ],
+          "submission_number": "31"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20090519",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20090526",
+              "id": "1593",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/019771s032ltr.pdf"
+            }
+          ],
+          "submission_number": "32"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170323",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20170324",
+              "id": "47665",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/019771Orig1s040ltr.pdf"
+            },
+            {
+              "date": "20170324",
+              "id": "47701",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019771Orig1s040lbl.pdf"
+            }
+          ],
+          "submission_number": "40"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "6"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "UNKNOWN",
+          "submission_status_date": "20100902",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20100907",
+              "id": "19185",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/019771s036ltr.pdf"
+            }
+          ],
+          "submission_number": "36"
+        }
+      ],
+      "application_number": "NDA019771",
+      "sponsor_name": "GLAXOSMITHKLINE",
+      "openfda": {
+        "product_ndc": [
+          "0573-0180"
+        ],
+        "package_ndc": [
+          "0573-0180-10",
+          "0573-0180-21"
+        ],
+        "generic_name": [
+          "IBUPROFEN AND PSEUDOEPHEDRINE HYDROCHLORIDE"
+        ],
+        "spl_set_id": [
+          "fac22a47-f0de-4505-fd8a-768430cda0c1"
+        ],
+        "brand_name": [
+          "ADVIL COLD AND SINUS"
+        ],
+        "manufacturer_name": [
+          "Pfizer Consumer Healthcare"
+        ],
+        "unii": [
+          "6V9V2RYJ8N",
+          "WK2XYI10QM"
+        ],
+        "rxcui": [
+          "1299021",
+          "1299022"
+        ],
+        "spl_id": [
+          "cd38175a-0c56-41b1-9a1f-7b4453ed4a13"
+        ],
+        "substance_name": [
+          "PSEUDOEPHEDRINE HYDROCHLORIDE",
+          "IBUPROFEN"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "application_number": [
+          "NDA019771"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "ORAL",
+          "reference_standard": "Yes",
+          "brand_name": "ADVIL COLD AND SINUS",
+          "active_ingredients": [
+            {
+              "strength": "200MG",
+              "name": "IBUPROFEN"
+            },
+            {
+              "strength": "30MG",
+              "name": "PSEUDOEPHEDRINE HYDROCHLORIDE"
+            }
+          ],
+          "reference_drug": "Yes",
+          "product_number": "001",
+          "dosage_form": "TABLET"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170616",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "submission_number": "2"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170616",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "submission_number": "1"
+        },
+        {
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20160311",
+          "submission_class_code": "UNKNOWN",
+          "submission_status": "AP",
+          "submission_number": "1"
+        }
+      ],
+      "application_number": "ANDA207976",
+      "sponsor_name": "NOVAST LABS",
+      "openfda": {
+        "product_ndc": [
+          "16714-809"
+        ],
+        "package_ndc": [
+          "16714-809-01"
+        ],
+        "generic_name": [
+          "LEVONORGESTREL"
+        ],
+        "spl_set_id": [
+          "9e8c96f6-ab51-4721-b276-1ca02a712510"
+        ],
+        "brand_name": [
+          "NEW DAY"
+        ],
+        "manufacturer_name": [
+          "Northstar Rx LLC"
+        ],
+        "unii": [
+          "5W7SIA7YZW"
+        ],
+        "rxcui": [
+          "483325",
+          "2003710"
+        ],
+        "spl_id": [
+          "c0e404c0-246f-402f-821e-9ffc7d007bbd"
+        ],
+        "substance_name": [
+          "LEVONORGESTREL"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "application_number": [
+          "ANDA207976"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "ORAL",
+          "reference_standard": "No",
+          "brand_name": "HER STYLE",
+          "active_ingredients": [
+            {
+              "strength": "1.5MG",
+              "name": "LEVONORGESTREL"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "TABLET"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "id": "40"
+            },
+            {
+              "id": "7"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20151123",
+          "submission_class_code": "TYPE 3",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20181127",
+              "id": "56570",
+              "type": "Letter",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/207920Orig1s000ltr.pdf"
+            },
+            {
+              "date": "20181127",
+              "id": "56571",
+              "type": "Label",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2015/207920Orig1s000lbl.pdf"
+            },
+            {
+              "date": "20181127",
+              "id": "56572",
+              "type": "Review",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/207920Orig1s000TOC.cfm"
+            },
+            {
+              "date": "20181127",
+              "id": "56573",
+              "type": "Summary Review",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/207920Orig1s000SumR.pdf"
+            }
+          ],
+          "submission_number": "1"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20190404",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20190408",
+              "id": "58247",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/207920Orig1s005lbl.pdf"
+            },
+            {
+              "date": "20190408",
+              "id": "58248",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/207920Orig1s005ltr.pdf"
+            }
+          ],
+          "submission_number": "5"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20171218",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20181127",
+              "id": "56567",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/207920Orig1s002lbl.pdf"
+            },
+            {
+              "date": "20190115",
+              "id": "57218",
+              "type": "Review",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/207920Orig1s002.pdf"
+            }
+          ],
+          "submission_number": "2"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "6"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170203",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20181127",
+              "id": "56568",
+              "type": "Letter",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/207920orig1s001ltr.pdf"
+            },
+            {
+              "date": "20181127",
+              "id": "56569",
+              "type": "Label",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/207920orig1s001lbl.pdf"
+            }
+          ],
+          "submission_number": "1"
+        }
+      ],
+      "application_number": "NDA207920",
+      "sponsor_name": "ASTRAZENECA LP",
+      "openfda": {
+        "product_ndc": [
+          "0573-2451"
+        ],
+        "package_ndc": [
+          "0573-2451-42",
+          "0573-2451-14"
+        ],
+        "generic_name": [
+          "ESOMEPRAZOLE MAGNESIUM"
+        ],
+        "spl_set_id": [
+          "61f67858-ba2f-449b-8b30-c15cdaf49222"
+        ],
+        "brand_name": [
+          "NEXIUM 24HR"
+        ],
+        "manufacturer_name": [
+          "Wyeth Consumer Healthcare LLC"
+        ],
+        "unii": [
+          "R6DXU4WAY9"
+        ],
+        "rxcui": [
+          "433733",
+          "1743279"
+        ],
+        "spl_id": [
+          "a2504e0a-31d3-4d92-b826-697ada4d72a5"
+        ],
+        "substance_name": [
+          "ESOMEPRAZOLE MAGNESIUM"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "application_number": [
+          "NDA207920"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "ORAL",
+          "reference_standard": "Yes",
+          "brand_name": "NEXIUM 24HR",
+          "active_ingredients": [
+            {
+              "strength": "EQ 20MG BASE",
+              "name": "ESOMEPRAZOLE MAGNESIUM"
+            }
+          ],
+          "reference_drug": "Yes",
+          "product_number": "001",
+          "dosage_form": "TABLET, DELAYED RELEASE"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "UNKNOWN",
+          "submission_status_date": "20160802",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "1"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "UNKNOWN",
+          "submission_status_date": "20161229",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "submission_number": "2"
+        },
+        {
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20160526",
+          "submission_class_code": "UNKNOWN",
+          "submission_status": "AP",
+          "submission_number": "1"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20191127",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "submission_number": "4"
+        }
+      ],
+      "application_number": "ANDA207957",
+      "sponsor_name": "HIKMA",
+      "openfda": {
+        "product_ndc": [
+          "0113-0285",
+          "21130-122",
+          "41190-004",
+          "63940-501",
+          "55910-607",
+          "63981-001",
+          "41520-703",
+          "11673-103",
+          "69842-900",
+          "0113-7117",
+          "36800-128",
+          "0113-0028",
+          "56062-107",
+          "30142-301",
+          "21130-089",
+          "55316-719",
+          "36800-222",
+          "62011-0269",
+          "0363-0881",
+          "37012-307",
+          "41520-553",
+          "64024-007",
+          "70000-0110",
+          "46122-386",
+          "30142-387",
+          "55316-007",
+          "46122-338",
+          "64024-205",
+          "0536-1183",
+          "68391-133",
+          "71141-012",
+          "0363-0024",
+          "55910-773",
+          "50594-319",
+          "37808-075",
+          "49035-200",
+          "41163-023",
+          "49348-182",
+          "41250-933",
+          "41163-100",
+          "56062-007",
+          "55319-019",
+          "30142-767",
+          "11673-388",
+          "37808-205",
+          "49738-303",
+          "57483-005",
+          "69842-757",
+          "69256-061",
+          "55301-506",
+          "37808-340",
+          "37012-007"
+        ],
+        "package_ndc": [
+          "41250-933-08",
+          "41250-933-03",
+          "41250-933-02",
+          "41250-933-01",
+          "56062-007-01",
+          "56062-007-02",
+          "37012-307-01",
+          "0536-1183-99",
+          "37012-307-03",
+          "37012-307-02",
+          "55910-607-02",
+          "55910-773-02",
+          "55910-773-01",
+          "36800-222-01",
+          "36800-222-03",
+          "69842-900-02",
+          "69842-900-03",
+          "69842-900-01",
+          "69842-900-04",
+          "69842-900-08",
+          "41163-100-02",
+          "62011-0269-1",
+          "62011-0269-2",
+          "55301-506-01",
+          "49348-182-43",
+          "68391-133-04",
+          "68391-133-07",
+          "0113-0285-02",
+          "37808-205-03",
+          "37808-205-02",
+          "37808-205-01",
+          "46122-338-05",
+          "21130-089-01",
+          "21130-089-02",
+          "21130-089-03",
+          "64024-007-02",
+          "41163-023-02",
+          "41163-023-01",
+          "63940-501-01",
+          "49738-303-02",
+          "49738-303-01",
+          "46122-338-02",
+          "49035-200-07",
+          "64024-205-02",
+          "49035-200-03",
+          "49035-200-01",
+          "11673-388-02",
+          "49348-182-29",
+          "37808-075-02",
+          "37808-075-03",
+          "37808-075-01",
+          "70000-0110-1",
+          "0113-7117-04",
+          "0113-7117-01",
+          "30142-767-03",
+          "30142-767-02",
+          "55319-019-02",
+          "0363-0024-08",
+          "30142-767-01",
+          "0363-0024-02",
+          "0363-0024-03",
+          "0363-0024-01",
+          "0363-0024-04",
+          "37012-007-01",
+          "37012-007-02",
+          "11673-103-03",
+          "46122-386-72",
+          "41520-553-02",
+          "63981-001-05",
+          "63981-001-01",
+          "30142-387-02",
+          "55316-007-01",
+          "11673-103-01",
+          "11673-103-02",
+          "55316-007-02",
+          "69256-061-02",
+          "69256-061-01",
+          "37808-340-02",
+          "0113-0028-01",
+          "0113-0028-02",
+          "50594-319-02",
+          "0363-0881-02",
+          "57483-005-02",
+          "57483-005-03",
+          "69842-757-02",
+          "56062-107-02",
+          "56062-107-01",
+          "41190-004-02",
+          "41190-004-01",
+          "71141-012-02",
+          "0536-1183-65",
+          "41520-703-01",
+          "41520-703-02",
+          "41520-703-03",
+          "30142-301-02",
+          "30142-301-03",
+          "30142-301-01",
+          "36800-128-02",
+          "21130-122-02",
+          "55316-719-02",
+          "55316-719-01"
+        ],
+        "generic_name": [
+          "FLUTICASONE PROPIONATE (GLUCOCORTICOID)",
+          "FLUTICASONE PROPIONATE"
+        ],
+        "spl_set_id": [
+          "3583ad5a-7b1e-4346-9d7e-be91738e4d67",
+          "0e0f36b2-e5ef-40b1-9efe-5fda36491e01",
+          "f15d5c04-e308-4540-8c0a-d66a44c3d4fd",
+          "51c0a953-93cb-4d0a-b51c-02d9482d1746",
+          "777375cf-6c25-4d8e-8c26-25b966bee359",
+          "446bfcd9-8f28-4a96-840f-c72ac5970408",
+          "f450f5d1-fb69-42c1-b5f0-19e7a9586958",
+          "55a8f70c-8250-4e6b-a384-4d5a8bc09ab6",
+          "e0229ba7-d4e8-4d9f-b9e2-4aa5653bc5d8",
+          "f1ee557e-6dc4-4178-ae5a-a4ac72b1c358",
+          "45ffaf45-8b88-44ba-804b-c2b563589898",
+          "b83ceba5-bf1d-4e6d-9e8b-9d3473b683b4",
+          "3a1096ec-6914-4a37-892b-761c89a6a87b",
+          "e2e71016-2eb6-4fa9-a647-6185e23f5020",
+          "c72952e6-bfe5-485b-8c62-787ff4179b62",
+          "1a34615e-9b13-4cfa-b4e0-6d60b3a27dd4",
+          "7642f980-3963-46e9-ad5a-14ab2578ec9e",
+          "959167e8-f4a1-49b9-b3a6-f0d0b3d7d477",
+          "36901eab-e389-4778-b472-4ea920486586",
+          "59cc17ad-2517-4ff5-8e9a-2a496e707150",
+          "8416eb8f-e7fc-4cae-9aa1-84b2321ad67e",
+          "7698b73f-16f4-4b99-a3be-9453e8c35469",
+          "b31f27bd-ceba-49b0-80ac-6fd0e1359889",
+          "02d7d8e2-5099-4fe8-9d84-933d0818e6dc",
+          "3eeab9c9-82db-4d03-b4ba-34c1d6f1b1a9",
+          "783ce1b9-27e4-428a-9f5e-04e70b234ac9",
+          "6c22db1c-db92-40a9-baf6-b8ea1ab796d2",
+          "92d241f2-2c52-4593-9bb3-9aa1d34d1962",
+          "356c9306-3b25-40ca-acc9-c3201aad9512",
+          "bf120a48-cc29-4f40-b70d-415868ac9d3e",
+          "5227df05-f2c2-4bc4-91ee-da0fd03d1095",
+          "d10543c5-051d-4020-be8d-ba7fd2721699",
+          "a70e26c8-2f50-49ac-8278-fc06e4c63e6a",
+          "f3f82bf6-1641-4653-9085-d7d630e515de",
+          "6f3f64e6-d1f8-40d7-bb25-f6f279db9987",
+          "648cc81a-f50f-494f-82fd-20221c595097",
+          "dbaa5264-bbc9-411c-89bb-4aef3ee96459",
+          "eb9cde32-b630-4d0c-afc2-7c0ce074ae4b",
+          "7cd26ce6-8aaa-4543-9214-4527b9e07c44",
+          "90dfc92b-8db7-4d8e-8190-190f5a1dcc0e",
+          "f57c9883-ac36-4b69-8f3b-c1df03795e0a",
+          "5ad1a125-4392-47dc-a3dc-145ca2486c1e",
+          "cf2e16be-0126-412e-9ddd-013f97a7a742",
+          "4dc4b47a-233c-4bb8-b08b-c07561c415ff",
+          "4aeb6bb8-744f-45d6-afe7-257d3fcfcb25",
+          "5f0514bd-7893-4602-a17b-716fb9947572",
+          "607d0a22-72d1-440f-9dac-e088b68dde09",
+          "f7c425d2-4afb-478f-83bc-eb336910233b",
+          "587d7c72-a70e-4ada-945d-14989b96350c",
+          "97ccdb97-e09d-4a4a-a131-7a36f218a8b7",
+          "d78ea832-20b5-49df-9856-0effd15e8b0d",
+          "d254406c-4603-43ae-aab6-c4ff518558ef"
+        ],
+        "brand_name": [
+          "HEALTH MART ALLERGY RELIEF NASAL 24 HR",
+          "24 HOUR ALLERGY RELIEF NASAL",
+          "FLUTICASONE PROPIONATE NASAL",
+          "FLUTICARE NASAL ALERGY",
+          "ALLERGY NASAL",
+          "TOPCARE FLUTICASONE PROPIONATE NASAL",
+          "WELBY FLUTICASONE",
+          "NASOFLOW",
+          "EXCHANGE SELECT ALLERGY RELIEF",
+          "BERKLEY AND JENSEN ALLERGY RELIEF",
+          "DG HEALTH ALLERGY RELIEF NASAL",
+          "SIGNATURE CARE CHILDRENS ALLERGY RELIEF",
+          "SIGNATURE CARE ALLERGY RELIEF",
+          "SHOPRITE ALLERGY RELIEF NASAL",
+          "LEADER ALLERGY RELIEF NASAL",
+          "CHILDRENS NASOPRO",
+          "HARRIS TEETER ALLERGY RELIEF NASAL",
+          "GOOD NEIGHBOR PHARMACY CHILDRENS FLUTICASONE PROPIONATE",
+          "24 HOUR ALLERGY NASAL",
+          "WELBY ALLERGY RELIEF",
+          "SUNMARK ALLERGY RELIEF NASAL 24 HR",
+          "RUGBY FLUTICASONE PROPIONATE NASAL",
+          "DG HEALTH CHILDRENS ALLERGY RELIEF NASAL",
+          "CHILDRENS 24 HOUR ALLERGY RELIEF NASAL",
+          "TOPCARE CHILDRENS ALLERGY RELIEF NASAL 24 HOUR",
+          "EQUALINE FLUTICASONE PROPIONATE",
+          "ALLERGY RELIEF NASAL",
+          "FAMILY WELLNESS ALLERGY RELIEF NASAL",
+          "CAREONE ALLERGY RELIEF",
+          "FLUTICASONE PROPIONATE",
+          "GOOD NEIGHBOR PHARMACY FLUTICASONE PROPIONATE",
+          "GOOD SENSE 24 HOUR ALLERGY NASAL",
+          "EQUATE ALLERGY RELIEF",
+          "BASIC CARE ALLERGY RELIEF NASAL",
+          "NASAL",
+          "CORE VALUES ALLERGY RELIEF",
+          "HEALTHY ACCENTS NASOFLOW",
+          "UP AND UP ALLERGY RELIEF NASAL",
+          "NASOPRO 24",
+          "KIRKLAND SIGNATURE ALLER FLO",
+          "SOUND BODY ALLERGY RELIEF",
+          "CAREONE CHILDRENS ALLERGY RELIEF",
+          "SMART SENSE ALLERGY RELIEF",
+          "HEALTHY ACCENTS ALLERGY RELIEF"
+        ],
+        "manufacturer_name": [
+          "Meijer Distribution Inc",
+          "Costco Wholesale Company",
+          "Aldi Inc",
+          "Shopko Stores Operating Co., LLC",
+          "Lidl US LLC",
+          "CVS Pharmacy",
+          "Innovus Pharmaceuticals Inc.",
+          "Cardinal Health",
+          "Publix Super Markets Inc",
+          "Family Dollar Services Inc",
+          "Target Corporation",
+          "DZA Brands LLC",
+          "American Sales Company",
+          "H E B",
+          "Wakefern Food Corporation",
+          "Kroger Company",
+          "Walgreen Company",
+          "Amerisource Bergen",
+          "Wal-Mart Stores Inc",
+          "Harmon Stores Inc.",
+          "Supervalu Inc",
+          "Safeway",
+          "BJWC",
+          "Aldi, Inc",
+          "Dolgencorp, LLC",
+          "Rugby Laboratories",
+          "Strategic Sourcing Services LLC",
+          "L. Perrigo Company",
+          "Big Lots Stores, Inc.",
+          "Topco Associates LLC",
+          "Army & Air Force Exchange Service",
+          "Kmart Corporation",
+          "Harris Teeter, LLC"
+        ],
+        "unii": [
+          "O2GMZ0LF5W"
+        ],
+        "rxcui": [
+          "1797907",
+          "1797935",
+          "1797909",
+          "1872967"
+        ],
+        "spl_id": [
+          "c90d1fa3-effb-42ef-af17-fd5fcbacdff4",
+          "529a0e9e-ad1d-4c51-ab58-800f1958cd92",
+          "6b056811-503a-4674-8d62-e47d983f1aa9",
+          "17f06ed8-b876-4c9e-998a-63ba924b318e",
+          "f15d5c04-e308-4540-8c0a-d66a44c3d4fd",
+          "ef48b4e5-65d3-4985-876c-7f385d887f7c",
+          "88b49867-430d-4013-9d8b-c2550c6318dc",
+          "105b9548-78c7-4aab-a8bc-75fcebcb9ea6",
+          "4795b897-3187-4b5d-9d53-15af761fc92c",
+          "9c211467-e9f7-4cab-8e5f-e87b710899da",
+          "3ed1c636-1b25-42cc-b6ae-dd4fe45f58d7",
+          "45ffaf45-8b88-44ba-804b-c2b563589898",
+          "b13ea6d4-96a2-4bf6-8366-374856c24790",
+          "0205393f-9571-4a73-b63a-4e3dd820b8a1",
+          "69df00f9-0459-4f25-8b1c-cbfb0882d388",
+          "446bfcd9-8f28-4a96-840f-c72ac5970408",
+          "f3ceeac0-5af3-4fdd-a650-5a244b74e989",
+          "0e5e8b30-1d8b-4d8d-b390-4ec834a29b4d",
+          "ca3d6846-be01-44c0-8990-e060894eafab",
+          "ac09ac71-fd98-4d38-8835-2bb2281f2812",
+          "f45abd08-c255-42c9-b795-1299e7c6060d",
+          "5a48e2e8-2eaa-4929-8cdd-d9b29df885da",
+          "961c977f-23f8-405a-9f2f-80abd56cd8d6",
+          "84b526a8-57bd-4c0b-a2c7-fadbda9b2c8e",
+          "1409fecf-15b5-426d-8115-d7bf35377a36",
+          "5a19b1a0-0559-46aa-bf40-f43e6032acae",
+          "c328c99e-7258-493a-bca3-167defce97e3",
+          "c874ab1f-c174-4dfd-8ce0-0068044bc13d",
+          "ad75725b-1f73-47fc-ac61-7d2d47ec30e7",
+          "1e50e2d1-5fe5-4f43-98b5-3d259d5ac60f",
+          "578207ee-bbf3-4e7d-838b-0246ccb351ce",
+          "ce9489b2-967d-4810-84cc-5447a8177c1b",
+          "13b318fb-aaa1-45ab-a288-75159151bcae",
+          "b290504f-ee04-429d-a8c2-046cd5f1b305",
+          "ba378e8c-8d63-4fc5-a03f-f4db4568ad8a",
+          "313bdfde-395c-4d96-8ee7-ef47a22812cb",
+          "c9ac1bbf-5e05-44b8-89ee-acaa738b061d",
+          "4f807fca-7c8c-46c9-b203-bd0141376b60",
+          "f0141885-edfe-4e69-83e2-6c13d557a888",
+          "e5a4df36-f8fb-49f4-aa44-c24bd3165f0d",
+          "f26a4903-c92c-427d-a0e8-7cc7a99a653d",
+          "60e0bd48-25e1-432e-96e2-4ecbeb8d9f08",
+          "2dce1061-1db4-4d2a-a0d9-2a23db70cd0d",
+          "4dc4b47a-233c-4bb8-b08b-c07561c415ff",
+          "fb2d26eb-6e70-463f-973b-8b6046966370",
+          "b3d45c64-3a74-4de3-9f0f-ccf99207cf90",
+          "37451c78-0305-42f0-a2bc-a6aae002d75b",
+          "3c95a972-a878-446f-9046-bc0cf9eeaf91",
+          "8db910e7-6f34-4352-a341-b014b65bf949",
+          "df95506b-01e1-4a68-a613-1a9d8fc5be07",
+          "16b81d42-61ff-4f6a-b8a5-e2b1092c4b38",
+          "7a434ceb-c0f9-4d59-a3f5-2eab61dfc498"
+        ],
+        "substance_name": [
+          "FLUTICASONE PROPIONATE"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "NASAL"
+        ],
+        "application_number": [
+          "ANDA207957"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "NASAL",
+          "reference_standard": "No",
+          "brand_name": "FLUTICASONE PROPIONATE",
+          "active_ingredients": [
+            {
+              "strength": "0.05MG/SPRAY",
+              "name": "FLUTICASONE PROPIONATE"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "SPRAY, METERED"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "submission_property_type": [
+            {
+              "id": "6"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "40"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20181120",
+          "submission_class_code": "TYPE 5",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20181204",
+              "id": "56632",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/207964Orig1s000lbl.pdf"
+            },
+            {
+              "date": "20190131",
+              "id": "57114",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/207964Orig1s000ltr.pdf"
+            },
+            {
+              "date": "20190610",
+              "id": "58999",
+              "type": "Review",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/207964Orig1s000TOC.cfm"
+            }
+          ],
+          "submission_number": "1"
+        }
+      ],
+      "application_number": "NDA207964",
+      "sponsor_name": "MEDLINE INDUSTRIES",
+      "openfda": {
+        "product_ndc": [
+          "53329-244"
+        ],
+        "package_ndc": [
+          "53329-244-02",
+          "53329-244-01"
+        ],
+        "generic_name": [
+          "CHLORHEXIDINE GLUCONATE 2%"
+        ],
+        "spl_set_id": [
+          "458cf999-5e3d-4d4d-82d5-02118c331893"
+        ],
+        "brand_name": [
+          "READYPREP CHG"
+        ],
+        "manufacturer_name": [
+          "Medline Industries"
+        ],
+        "unii": [
+          "MOR84MUD8E"
+        ],
+        "rxcui": [
+          "846127"
+        ],
+        "spl_id": [
+          "82be3a19-7f5e-6822-e053-2a91aa0ac4ae"
+        ],
+        "substance_name": [
+          "CHLORHEXIDINE GLUCONATE"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "application_number": [
+          "NDA207964"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "TOPICAL",
+          "reference_standard": "No",
+          "brand_name": "READYPREP CHG",
+          "active_ingredients": [
+            {
+              "strength": "2%",
+              "name": "CHLORHEXIDINE GLUCONATE"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "CLOTH"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "ORIG",
+          "submission_public_notes": "FOR WOMEN",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170217",
+          "submission_class_code": "UNKNOWN",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20170728",
+              "id": "49130",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208092Orig1s000ltr.pdf"
+            }
+          ],
+          "submission_number": "1"
+        },
+        {
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170727",
+          "submission_class_code": "UNKNOWN",
+          "submission_status": "AP",
+          "submission_number": "2"
+        }
+      ],
+      "application_number": "ANDA208092",
+      "sponsor_name": "P AND L",
+      "openfda": {
+        "product_ndc": [
+          "0472-1665",
+          "0472-1660"
+        ],
+        "package_ndc": [
+          "0472-1660-85",
+          "0472-1660-86",
+          "0472-1660-87",
+          "0472-1665-87",
+          "0472-1665-85",
+          "0472-1660-60"
+        ],
+        "generic_name": [
+          "MINOXIDIL"
+        ],
+        "spl_set_id": [
+          "62175a21-de20-4de2-a9fc-33dd7f934474",
+          "390aa2c9-de7f-4365-a03c-cbbf8e662b7c"
+        ],
+        "brand_name": [
+          "MINOXIDIL"
+        ],
+        "manufacturer_name": [
+          "Actavis Pharma, Inc."
+        ],
+        "unii": [
+          "5965120SH1"
+        ],
+        "rxcui": [
+          "645146"
+        ],
+        "spl_id": [
+          "aa47bc67-0c77-4710-a8ef-8c0dfd8e72f8",
+          "996528f5-eb8b-4f37-94cc-ba0c3d5caec1"
+        ],
+        "substance_name": [
+          "MINOXIDIL"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "TOPICAL"
+        ],
+        "application_number": [
+          "ANDA208092"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "TOPICAL",
+          "reference_standard": "No",
+          "brand_name": "MINOXIDIL (FOR WOMEN)",
+          "active_ingredients": [
+            {
+              "strength": "5%",
+              "name": "MINOXIDIL"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "002",
+          "dosage_form": "AEROSOL, FOAM"
+        },
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "TOPICAL",
+          "reference_standard": "No",
+          "brand_name": "MINOXIDIL (FOR MEN)",
+          "active_ingredients": [
+            {
+              "strength": "5%",
+              "name": "MINOXIDIL"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "AEROSOL, FOAM"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_property_type": [
+            {
+              "id": "7"
+            },
+            {
+              "id": "29"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20190417",
+          "submission_class_code": "UNKNOWN",
+          "submission_status": "AP",
+          "submission_number": "1"
+        }
+      ],
+      "application_number": "ANDA208024",
+      "sponsor_name": "HI TECH",
+      "openfda": {
+        "product_ndc": [
+          "50383-968"
+        ],
+        "package_ndc": [
+          "50383-968-37",
+          "50383-968-36",
+          "50383-968-16",
+          "50383-968-18",
+          "50383-968-38"
+        ],
+        "generic_name": [
+          "FLUTICASONE PROPIONATE"
+        ],
+        "spl_set_id": [
+          "a778d891-b9e9-47d7-b474-4baca8be1dbd"
+        ],
+        "brand_name": [
+          "FLUTICASONE PROPIONATE"
+        ],
+        "manufacturer_name": [
+          "Hi-Tech Pharmacal Co., Inc."
+        ],
+        "unii": [
+          "O2GMZ0LF5W"
+        ],
+        "rxcui": [
+          "1797907"
+        ],
+        "spl_id": [
+          "3a94799b-b404-445a-bd96-6aae096a47dd"
+        ],
+        "substance_name": [
+          "FLUTICASONE PROPIONATE"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "NASAL"
+        ],
+        "application_number": [
+          "ANDA208024"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "NASAL",
+          "reference_standard": "No",
+          "brand_name": "FLUTICASONE PROPIONATE",
+          "active_ingredients": [
+            {
+              "strength": "0.05MG/SPRAY",
+              "name": "FLUTICASONE PROPIONATE"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "SPRAY, METERED"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "6"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20171130",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20171201",
+              "id": "50568",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208025Orig1s007ltr.pdf"
+            },
+            {
+              "date": "20171204",
+              "id": "50588",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208025Orig1s007lbl.pdf"
+            }
+          ],
+          "submission_number": "7"
+        },
+        {
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "N/A",
+          "submission_status_date": "20171130",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20171204",
+              "id": "50590",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208025s006lbl.pdf"
+            },
+            {
+              "date": "20171204",
+              "id": "50591",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208025s006ltr.pdf"
+            }
+          ],
+          "submission_number": "6"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            },
+            {
+              "id": "6"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20171115",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20171115",
+              "id": "50418",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208025Orig1s005ltr.pdf"
+            }
+          ],
+          "submission_number": "5"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170509",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20170512",
+              "id": "48368",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208025Orig1s003ltr.pdf"
+            },
+            {
+              "date": "20170515",
+              "id": "48377",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208025Orig1s003lbl.pdf"
+            }
+          ],
+          "submission_number": "3"
+        },
+        {
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "submission_property_type": [
+            {
+              "id": "40"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "6"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "ORIG",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20160607",
+          "submission_class_code": "TYPE 5",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20161122",
+              "id": "45930",
+              "type": "Review",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208025Orig1s000TOC.cfm"
+            },
+            {
+              "date": "20160613",
+              "id": "32877",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/208025Orig1s000ltr.pdf"
+            }
+          ],
+          "submission_number": "1"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "6"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            },
+            {
+              "id": "7"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20170125",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20170130",
+              "id": "47009",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208025Orig1s001ltr.pdf"
+            },
+            {
+              "date": "20170130",
+              "id": "47013",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208025Orig1s001lbl.pdf"
+            }
+          ],
+          "submission_number": "1"
+        },
+        {
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "id": "6"
+            },
+            {
+              "id": "7"
+            },
+            {
+              "id": "15"
+            },
+            {
+              "id": "31"
+            }
+          ],
+          "submission_type": "SUPPL",
+          "review_priority": "STANDARD",
+          "submission_status_date": "20190409",
+          "submission_class_code": "LABELING",
+          "submission_status": "AP",
+          "application_docs": [
+            {
+              "date": "20190410",
+              "id": "58280",
+              "type": "Letter",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/208025Orig1s008ltr.pdf"
+            },
+            {
+              "date": "20190429",
+              "id": "58457",
+              "type": "Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/208025Orig1s008lbl.pdf"
+            }
+          ],
+          "submission_number": "8"
+        }
+      ],
+      "application_number": "NDA208025",
+      "sponsor_name": "DEXCEL PHARMA",
+      "openfda": {
+        "product_ndc": [
+          "49035-373",
+          "69842-507",
+          "0113-0116",
+          "0363-1419",
+          "30142-192",
+          "0113-7116",
+          "36800-295"
+        ],
+        "package_ndc": [
+          "0113-7116-55",
+          "0363-1419-74",
+          "30142-192-55",
+          "69842-507-55",
+          "69842-507-74",
+          "0363-1419-55",
+          "0113-7116-74",
+          "0113-0116-55",
+          "49035-373-55",
+          "36800-295-74"
+        ],
+        "generic_name": [
+          "LANSOPRAZOLE"
+        ],
+        "spl_set_id": [
+          "ec5d6d5c-11e7-4932-a48f-fb72218ceccd",
+          "d86585b7-e146-4f04-9016-412b16e06f55",
+          "a72f92cc-db49-40ef-a249-6b7c50dc8ef2",
+          "89b91d5f-008c-4e9d-83e0-23b673b9c469",
+          "992a8f95-475c-4e57-90cc-9839c8678427",
+          "1ec8fe41-3ce4-4e0a-9809-f69956c90859",
+          "4c0684b5-5c18-4ed5-8185-8b5d51dce3a0"
+        ],
+        "brand_name": [
+          "LANSOPRAZOLE",
+          "BASIC CARE LANSOPRAZOLE",
+          "TOPCARE LANSOPRAZOLE",
+          "GOOD SENSE LANSOPRAZOLE",
+          "EQUATE LANSOPRAZOLE"
+        ],
+        "manufacturer_name": [
+          "Walgreen Company",
+          "Wal-Mart Stores Inc",
+          "L. Perrigo Company",
+          "Topco Associates LLC",
+          "CVS Pharmacy",
+          "Kroger Company"
+        ],
+        "unii": [
+          "0K5C5T2QPG"
+        ],
+        "rxcui": [
+          "351261"
+        ],
+        "spl_id": [
+          "e89d7311-ab3c-451e-ac55-3aae385c7524",
+          "9b09acc9-656c-4764-a2d1-5606f1e10e4d",
+          "820eb0ed-7e4b-43c4-9c62-f7deff419dba",
+          "aefb004d-2ad0-4e6e-8305-f91d39e89607",
+          "f00521f6-5a04-4017-9dd0-3fe9a9d16b73",
+          "f0a7cb93-46a4-412c-97e5-e66306eacdd6",
+          "440e71e7-2274-42e7-ac35-6d76c4b7b68c"
+        ],
+        "substance_name": [
+          "LANSOPRAZOLE"
+        ],
+        "product_type": [
+          "HUMAN OTC DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "application_number": [
+          "NDA208025"
+        ]
+      },
+      "products": [
+        {
+          "marketing_status": "Over-the-counter",
+          "route": "ORAL",
+          "reference_standard": "No",
+          "brand_name": "LANSOPRAZOLE",
+          "active_ingredients": [
+            {
+              "strength": "15MG",
+              "name": "LANSOPRAZOLE"
+            }
+          ],
+          "reference_drug": "No",
+          "product_number": "001",
+          "dosage_form": "TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE"
+        }
+      ]
+    }
+  ]
+}
